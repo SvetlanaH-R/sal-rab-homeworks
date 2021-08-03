@@ -34,7 +34,7 @@
 // }
 
 function sendRequest(name, phone, address, goods, sum) {
-    let data = {client: name, "-", phone; goods[], order: {address: "", sum}};
+    let data = {client: "Иван +7(987)65-43-210", goods[], order: {address: "", sum},};
 
     let countOfGoods = goods.length;
 
